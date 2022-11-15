@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Overview of the course assignments, which include class attendance and
+  participation, a comparative research paper, oral presentations, and short position
+  papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
