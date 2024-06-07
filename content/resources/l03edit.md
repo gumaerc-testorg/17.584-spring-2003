@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes notes on Military Contracts, Major Figures in
   Civil-Military Relations Theory, and Cohen Reading.
 file: /courses/17-584-civil-military-relations-spring-2003/fecbe7de5021fe11f5394ee1c686cc70_L03Edit.pdf
+file_size: 152394
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
