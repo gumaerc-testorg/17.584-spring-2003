@@ -16,7 +16,7 @@ Desch, Michael. *Civilian Control of the Military: The Changing Security Environ
 
 Cohen, Eliot. *Supreme Command: Soldiers, Statesmen, and Leadership in Wartime.* New York, NY: Free Press, 2002. ISBN: 9780743230490.
 
-{{% resource_link "e847f753-3fa0-4a6f-a4cf-e82e88f73ba3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Feaver, Peter, and Richard H. Kohn. *Soldiers and Civilians: The Civil-Military Gap and American National Security*. Cambridge, MA: MIT Press, 2001. ISBN: 9780262561426.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262561426) Feaver, Peter, and Richard H. Kohn. *Soldiers and Civilians: The Civil-Military Gap and American National Security*. Cambridge, MA: MIT Press, 2001. ISBN: 9780262561426.
 
 Stepan, Alfred. *Rethinking Military Politics: Brazil and the Southern Cone.* Princeton, NJ: Princeton University Press, 1988. ISBN: 9780691022741.
 
@@ -75,7 +75,7 @@ Feaver, Peter. "The Civil-Military Problematique: Huntington, Janowitz, and the 
 {{< tdclose >}}{{< tdopen >}}
 The United States
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "e847f753-3fa0-4a6f-a4cf-e82e88f73ba3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Feaver, Peter, and Richard H. Kohn. *Soldiers and Civilians: The Civil-Military Gap and American National Security*. Cambridge, MA: MIT Press, 2001, introduction, chapters 1, 2, 5, 8, and 13. ISBN: 9780262561426.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262561426) Feaver, Peter, and Richard H. Kohn. *Soldiers and Civilians: The Civil-Military Gap and American National Security*. Cambridge, MA: MIT Press, 2001, introduction, chapters 1, 2, 5, 8, and 13. ISBN: 9780262561426.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -216,6 +216,6 @@ Goldstein, Joshua. *War and Gender: How Gender Shapes the War System and Vice Ve
 
 Moskos, Charles, John Allen Williams, and David Segal. *The Postmodern Military: Armed Forces after the Cold War.* New York, NY: Oxford University Press, 1999, chapters 1, 2, and 14. ISBN: 9780195133295.
 
-{{% resource_link "e847f753-3fa0-4a6f-a4cf-e82e88f73ba3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Miller, Laura, and John Allen Williams. "Do Military Policies on Gender and Sexuality Undermine Combat Effectiveness?" In *Soldiers and Civilians: The Civil-Military Gap and American National Security\_*.\_ Edited by Peter Feaver, and Richard H. Kohn. Cambridge, MA: MIT Press, 2001, pp. 361-402. ISBN: 9780262561426.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262561426) Miller, Laura, and John Allen Williams. "Do Military Policies on Gender and Sexuality Undermine Combat Effectiveness?" In *Soldiers and Civilians: The Civil-Military Gap and American National Security\_*.\_ Edited by Peter Feaver, and Richard H. Kohn. Cambridge, MA: MIT Press, 2001, pp. 361-402. ISBN: 9780262561426.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
